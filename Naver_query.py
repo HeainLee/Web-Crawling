@@ -10,7 +10,7 @@ import requests
 
 driver = webdriver.Chrome('C:/Users/Heain/Desktop/2018_FastCampus/Python/Intermediate/chromedriver.exe')
 #windows에서 실행할 경우 실행파일의 모든 경로를 작성해야함
-#my_query = 'SAMSUNG'
+#my_query = '인공지능'
 
 try : 
     driver.get('https://naver.com') #사이트로 이동
