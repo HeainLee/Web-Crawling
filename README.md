@@ -1,5 +1,6 @@
 # Web-Crawling
-python code
+
+*python code*
 
 Naver_query.py : It's just for collecting Blog, News and Cafe posts' title direatly shown in WebPage from the Portal-Site Naver.com.
 
