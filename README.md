@@ -7,3 +7,4 @@
 **Naver_News.py** : Crawling Online News data and Saving to .csv files. 
                 (select *start_date*, *end_date* and *query* you look for)
 
+**Instagram_query.py** : find posting and press 'Like' 
